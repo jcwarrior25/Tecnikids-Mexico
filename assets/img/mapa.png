@@ -1,0 +1,435 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10.0, user-scalable=yes">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>404 - Página no encontrada - Tecnikids</title>
+<meta name="robots" content="follow, noindex" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Tecnikids &raquo; Feed" href="https://tecnikids.info/wp/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tecnikids &raquo; Feed de los comentarios" href="https://tecnikids.info/wp/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tecnikids.info\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.18"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- tecnikids.info/wp is managing ads with Advanced Ads 1.21.1 – https://wpadvancedads.com/ --><script data-wpfc-render="false">
+						advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+						</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='pt-cv-public-style-css'  href='https://tecnikids.info/wp/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://tecnikids.info/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://tecnikids.info/wp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7msm_styles-css'  href='https://tecnikids.info/wp/wp-content/plugins/contact-form-7-multi-step-module/resources/cf7msm.css?ver=4.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7-style-frontend-style-css'  href='https://tecnikids.info/wp/wp-content/plugins/contact-form-7-style/css/frontend.css?ver=3.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7-style-responsive-style-css'  href='https://tecnikids.info/wp/wp-content/plugins/contact-form-7-style/css/responsive.css?ver=3.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_counter-font-awesome-front-css'  href='https://tecnikids.info/wp/wp-content/plugins/counter-number-showcase/assets/css/font-awesome/css/font-awesome.min.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_counter_bootstrap-front-css'  href='https://tecnikids.info/wp/wp-content/plugins/counter-number-showcase/assets/css/bootstrap-front.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_counter_column-css'  href='https://tecnikids.info/wp/wp-content/plugins/counter-number-showcase/assets/css/counter-column.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='Total_Soft_Gallery_Video-css'  href='https://tecnikids.info/wp/wp-content/plugins/gallery-videos/CSS/Total-Soft-Gallery-Video-Widget.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css-css'  href='https://tecnikids.info/wp/wp-content/plugins/gallery-videos/CSS/totalsoft.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='Rich_Web_Video_Slider-css'  href='https://tecnikids.info/wp/wp-content/plugins/slider-video/Style/Rich-Web-Video-Slider-Widget.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesomeSl-css-css'  href='https://tecnikids.info/wp/wp-content/plugins/slider-video/Style/richwebicons.css?ver=5.5.18' type='text/css' media='all' />
+<link rel='stylesheet' id='video_popup_close_icon-css'  href='https://tecnikids.info/wp/wp-content/plugins/video-popup/css/vp-close-icon/close-button-icon.css?ver=1776462872' type='text/css' media='all' />
+<link rel='stylesheet' id='oba_youtubepopup_css-css'  href='https://tecnikids.info/wp/wp-content/plugins/video-popup/css/YouTubePopUp.css?ver=1776462872' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcf-slick-css'  href='https://tecnikids.info/wp/wp-content/plugins/wp-carousel-free/public/css/slick.min.css?ver=2.1.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-carousel-free-fontawesome-css'  href='https://tecnikids.info/wp/wp-content/plugins/wp-carousel-free/public/css/font-awesome.min.css?ver=2.1.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-carousel-free-css'  href='https://tecnikids.info/wp/wp-content/plugins/wp-carousel-free/public/css/wp-carousel-free-public.min.css?ver=2.1.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsisac-pro-public-style-css'  href='https://tecnikids.info/wp/wp-content/plugins/wp-slick-slider-and-image-carousel-pro/assets/css/wpsisac-pro-public.min.css?ver=1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpos-slick-style-css'  href='https://tecnikids.info/wp/wp-content/plugins/wp-slick-slider-and-image-carousel-pro/assets/css/slick.css?ver=1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://tecnikids.info/wp/wp-content/plugins/easy-fancybox/css/jquery.fancybox.min.css?ver=1.3.24' type='text/css' media='screen' />
+<link rel='stylesheet' id='qlwapp-css'  href='https://tecnikids.info/wp/wp-content/plugins/wp-whatsapp-chat/build/frontend/css/style.css?ver=7.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css'  href='https://tecnikids.info/wp/wp-content/plugins/cf7-conditional-fields/style.css?ver=1.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://tecnikids.info/wp/wp-content/themes/starter-blog/assets/fonts/font-awesome/css/font-awesome.min.css?ver=5.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='starterblog-google-font-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A100%2C100i%2C200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CAnton%3A400%7CAbel%3A400&#038;ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='starterblog-style-css'  href='https://tecnikids.info/wp/wp-content/themes/starter-blog/style.min.css?ver=1.6.1' type='text/css' media='all' />
+<style id='starterblog-style-inline-css' type='text/css'>
+body {font-family: "Montserrat";font-weight: 200;}h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {font-family: "Montserrat";font-weight: 100;}.site-content .widget-title {font-family: "Montserrat";font-weight: 100;}.site-branding .site-title, .site-branding .site-title a {font-family: "Montserrat";font-weight: normal;}.site-branding .site-description {font-family: "Montserrat";font-weight: 100;}.entry-content h1, .wp-block h1, .entry-single .entry-title {font-family: "Anton";font-weight: normal;}.entry-content h2, .wp-block h2 {font-family: "Montserrat";font-weight: 100;}.entry-content h3, .wp-block h3 {font-family: "Montserrat";font-weight: 500;}.entry-content h4, .wp-block h4 {font-family: "Montserrat";font-weight: 100;}.entry-content h5, .wp-block h5 {font-family: "Montserrat";font-weight: 100;}.entry-content h6, .wp-block h6 {font-family: "Montserrat";font-weight: 100;}#page-cover {background-image: url("https://tecnikids.info/wp/wp-content/themes/starter-blog/assets/images/default-cover.jpg");}.header--row:not(.header--transparent).header-top .header--row-inner  {background-color: #2a3e90;} .header--row:not(.header--transparent).header-main .header--row-inner  {background-color: #2a3e90;} .sub-menu .li-duplicator {display:none !important;}.builder-header-html-item.item--html p, .builder-header-html-item.item--html {font-family: "Montserrat";font-style: normal;font-weight: normal;text-transform: capitalize;font-size: 16px;line-height: 46px;letter-spacing: 0.2px;}.header-search_icon-item .header-search-modal  {border-style: solid;} .header-search_icon-item .search-field  {border-style: solid;} .dark-mode .header-search_box-item .search-form-fields, .header-search_box-item .search-form-fields  {border-style: solid;} .builder-item--primary-menu .nav-icon-angle { width: 7px; height: 7px; }.builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li > a  {color: #2f3a5c; text-decoration-color: #2f3a5c;border-color: #e8e8e8;border-top-left-radius: 22px;border-top-right-radius: 22px;border-bottom-right-radius: 22px;border-bottom-left-radius: 22px;} .header--row:not(.header--transparent) .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li > a:hover, .header--row:not(.header--transparent) .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li.current-menu-item > a, .header--row:not(.header--transparent) .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li.current-menu-ancestor > a, .header--row:not(.header--transparent) .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li.current-menu-parent > a  {color: #ffffff; text-decoration-color: #ffffff;background-color: #1e74bf;border-style: solid;border-top-left-radius: 20px;border-top-right-radius: 20px;border-bottom-right-radius: 20px;border-bottom-left-radius: 20px;} .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li > a,.builder-item-sidebar .primary-menu-sidebar .primary-menu-ul > li > a {font-family: "Abel";font-style: normal;font-weight: normal;text-transform: none;font-size: 16px;}a.item--button  {background-color: #dd3333;border-top-left-radius: 15px;border-top-right-radius: 15px;border-bottom-right-radius: 15px;border-bottom-left-radius: 15px;} a.item--button:hover  {background-color: #dd3333;} .site-content .content-area  {background-color: #FFFFFF;} /* CSS for desktop */#page-cover .page-cover-inner {min-height: 300px;}.header--row.header-top .starterblog-grid, .header--row.header-top .style-full-height .primary-menu-ul > li > a {min-height: 33px;}.header--row.header-main .starterblog-grid, .header--row.header-main .style-full-height .primary-menu-ul > li > a {min-height: 38px;}.header--row.header-bottom .starterblog-grid, .header--row.header-bottom .style-full-height .primary-menu-ul > li > a {min-height: 55px;}.header-menu-sidebar-inner {text-align: center;}.site-header .site-branding img { max-width: 398px; } .site-header .cb-row--mobile .site-branding img { width: 398px; }.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header-search_box-item .search-submit{margin-left: -40px;} .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;} .header-search_box-item .header-search-form button.search-submit{margin-left:-40px;}.header--row .builder-first--primary-menu {text-align: right;}.footer-social-icons.starterblog-builder-social-icons li a { font-size: 17px; }.footer-social-icons.starterblog-builder-social-icons li {margin-left: 2px; margin-right: 2px;}/* CSS for tablet */@media screen and (max-width: 1024px) { #page-cover .page-cover-inner {min-height: 250px;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header-search_box-item .search-submit{margin-left: -40px;} .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;} .header-search_box-item .header-search-form button.search-submit{margin-left:-40px;} }/* CSS for mobile */@media screen and (max-width: 568px) { #page-cover .page-cover-inner {min-height: 200px;}.header--row.header-top .starterblog-grid, .header--row.header-top .style-full-height .primary-menu-ul > li > a {min-height: 33px;}.header--row.header-main .starterblog-grid, .header--row.header-main .style-full-height .primary-menu-ul > li > a {min-height: 0px;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header-search_box-item .search-submit{margin-left: -40px;} .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;} .header-search_box-item .header-search-form button.search-submit{margin-left:-40px;} }
+</style>
+<link rel='stylesheet' id='sccss_style-css'  href='https://tecnikids.info/wp/?sccss=1&#038;ver=5.5.18' type='text/css' media='all' />
+<!--n2css--><script type='text/javascript' src='https://tecnikids.info/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/gallery-videos/JS/modernizr.custom.js?ver=5.5.18' id='cwp-main-js'></script>
+<script type='text/javascript' id='Total_Soft_Gallery_Video-js-extra'>
+/* <![CDATA[ */
+var object = {"ajaxurl":"https:\/\/tecnikids.info\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/gallery-videos/JS/Total-Soft-Gallery-Video-Widget.js?ver=5.5.18' id='Total_Soft_Gallery_Video-js'></script>
+<script type='text/javascript' id='Rich_Web_Video_Slider-js-extra'>
+/* <![CDATA[ */
+var object = {"ajaxurl":"https:\/\/tecnikids.info\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/slider-video/Scripts/Rich-Web-Video-Slider-Widget.js?ver=5.5.18' id='Rich_Web_Video_Slider-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/video-popup/js/YouTubePopUp.jquery.js?ver=1776462872' id='oba_youtubepopup_plugin-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/video-popup/js/YouTubePopUp.js?ver=1776462872' id='oba_youtubepopup_activate-js'></script>
+<link rel="https://api.w.org/" href="https://tecnikids.info/wp/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tecnikids.info/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tecnikids.info/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.18" />
+		<script type='text/javascript'>
+			var video_popup_unprm_general_settings = {
+    			'unprm_r_border': ''
+			};
+		</script>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">
+div.wpsisac-slider-content{
+ border-color: #ffffff;
+   border-width: 2px;
+   border-style: solid;
+
+}
+h2.wpsisac-slide-title{
+font-weight:bold;
+}
+</style>
+
+<link rel="icon" href="https://tecnikids.info/wp/wp-content/uploads/2020/11/cropped-logo-tecnikids-superior-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://tecnikids.info/wp/wp-content/uploads/2020/11/cropped-logo-tecnikids-superior-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://tecnikids.info/wp/wp-content/uploads/2020/11/cropped-logo-tecnikids-superior-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://tecnikids.info/wp/wp-content/uploads/2020/11/cropped-logo-tecnikids-superior-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/* 1️⃣ Declaramos la fuente */
+@font-face {
+  font-family: 'Poppins Bold';
+  src: url('https://tecnikids.com/Poppins-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* 2️⃣ Aplicamos la fuente a los selectores deseados */
+.nav-menu-desktop .menu-item .link-before,
+.nav-menu-mobile .menu-item .link-before {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700; /* aplica negrita */
+	color:none;
+}
+.row-v2.no-center .col-v2.col-v2-right{
+	margin-top:2%;
+	margin-bottom:2%;
+}
+.header--row.layout-full-contained .starterblog-container, .header--row.layout-fullwidth .starterblog-container{
+	max-width:none;
+}
+.light-mode .nav-menu-desktop.style-border-bottom .nav-menu>li.current-menu-ancestor>a, .light-mode .nav-menu-desktop.style-border-bottom .nav-menu>li.current-menu-item>a, .light-mode .nav-menu-desktop.style-border-top .nav-menu>li.current-menu-ancestor>a, .light-mode .nav-menu-desktop.style-border-top .nav-menu>li.current-menu-item>a, .light-mode .nav-menu-desktop.style-plain .nav-menu>li.current-menu-ancestor>a, .light-mode .nav-menu-desktop.style-plain .nav-menu>li.current-menu-item>a{
+	background-color:#2f3a5c;
+
+}
+		</style>
+					<style>
+				:root {
+				--qlwapp-scheme-font-family:inherit;--qlwapp-scheme-font-size:18px;--qlwapp-scheme-icon-size:60px;--qlwapp-scheme-icon-font-size:24px;--qlwapp-button-animation-name:none;				}
+			</style>
+			</head>
+
+<body data-rsssl=1 class="error404 wp-custom-logo hfeed content main-layout-content sidebar_vertical_border site-full-width menu_sidebar_slide_right aa-prefix-tecni-">
+<div id="page" class="site box-shadow">
+	<a class="skip-link screen-reader-text" href="#site-content">Saltar al contenido</a>
+	<a class="close is-size-medium  close-panel close-sidebar-panel" href="#">
+        <span class="hamburger hamburger--squeeze is-active">
+            <span class="hamburger-box">
+              <span class="hamburger-inner"><span class="screen-reader-text">Menú</span></span>
+            </span>
+        </span>
+        <span class="screen-reader-text">Close</span>
+        </a><header id="masthead" class="site-header header-v2"><div id="masthead-inner" class="site-header-inner">							<div  class="header-top header--row layout-full-contained"  id="cb-row--header-top"  data-row-id="top"  data-show-on="desktop mobile">
+								<div class="header--row-inner header-top-inner dark-mode">
+									<div class="starterblog-container">
+										<div class="starterblog-grid  cb-row--desktop hide-on-mobile hide-on-tablet starterblog-grid-middle"><div class="row-v2 row-v2-top no-left no-center"><div class="col-v2 col-v2-right"><div class="item--inner builder-item--social-icons" data-section="header_social_icons" data-item-id="social-icons" ><ul class="header-social-icons starterblog-builder-social-icons color-default"><li><a class="social-icon-facebook shape-circle" rel="nofollow" target="_blank" href="https://www.facebook.com/tecnikids"><i class="icon fa fa-facebook" title="Facebook"></i></a></li><li><a class="social-icon-youtube-play shape-circle" rel="nofollow" target="_blank" href="https://www.youtube.com/user/Tecnikids"><i class="icon fa fa-youtube-play" title="Youtube"></i></a></li><li><a class="social-icon-instagram shape-circle" rel="nofollow" target="_blank" href="https://www.instagram.com/_tecnikids/"><i class="icon fa fa-instagram" title="Instagram"></i></a></li></ul></div></div></div></div><div class="cb-row--mobile hide-on-desktop starterblog-grid starterblog-grid-middle"><div class="row-v2 row-v2-top no-left no-right"><div class="col-v2 col-v2-left"></div><div class="col-v2 col-v2-center"><div class="item--inner builder-item--social-icons" data-section="header_social_icons" data-item-id="social-icons" ><ul class="header-social-icons starterblog-builder-social-icons color-default"><li><a class="social-icon-facebook shape-circle" rel="nofollow" target="_blank" href="https://www.facebook.com/tecnikids"><i class="icon fa fa-facebook" title="Facebook"></i></a></li><li><a class="social-icon-youtube-play shape-circle" rel="nofollow" target="_blank" href="https://www.youtube.com/user/Tecnikids"><i class="icon fa fa-youtube-play" title="Youtube"></i></a></li><li><a class="social-icon-instagram shape-circle" rel="nofollow" target="_blank" href="https://www.instagram.com/_tecnikids/"><i class="icon fa fa-instagram" title="Instagram"></i></a></li></ul></div></div><div class="col-v2 col-v2-right"></div></div></div>									</div>
+								</div>
+							</div>
+														<div  class="header-main header--row layout-full-contained"  id="cb-row--header-main"  data-row-id="main"  data-show-on="desktop mobile">
+								<div class="header--row-inner header-main-inner dark-mode">
+									<div class="starterblog-container">
+										<div class="starterblog-grid  cb-row--desktop hide-on-mobile hide-on-tablet starterblog-grid-middle"><div class="row-v2 row-v2-main no-center no-right"><div class="col-v2 col-v2-left"><div class="item--inner builder-item--html" data-section="header_html" data-item-id="html" ><div class="builder-header-html-item item--html"><p>Help |  <i class="fa fa-phone text-theme-white"></i><a href="tel:50223163199"> (502) 23163199</a></p>
+</div></div></div></div></div><div class="cb-row--mobile hide-on-desktop starterblog-grid starterblog-grid-middle"><div class="row-v2 row-v2-main no-left no-right"><div class="col-v2 col-v2-left"></div><div class="col-v2 col-v2-center"><div class="item--inner builder-item--html" data-section="header_html" data-item-id="html" ><div class="builder-header-html-item item--html"><p>Help |  <i class="fa fa-phone text-theme-white"></i><a href="tel:50223163199"> (502) 23163199</a></p>
+</div></div></div><div class="col-v2 col-v2-right"></div></div></div>									</div>
+								</div>
+							</div>
+														<div  class="header-bottom header--row layout-full-contained"  id="cb-row--header-bottom"  data-row-id="bottom"  data-show-on="desktop mobile">
+								<div class="header--row-inner header-bottom-inner light-mode">
+									<div class="starterblog-container">
+										<div class="starterblog-grid  cb-row--desktop hide-on-mobile hide-on-tablet starterblog-grid-middle"><div class="row-v2 row-v2-bottom no-center"><div class="col-v2 col-v2-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo" >		<div class="site-branding logo-top">
+						<a href="https://tecnikids.info/wp/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="https://tecnikids.info/wp/wp-content/uploads/2025/11/cropped-LOGO-08.png" alt="Tecnikids">
+							</a>
+					</div><!-- .site-branding -->
+		</div></div><div class="col-v2 col-v2-right"><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu" ><nav  id="site-navigation-bottom-desktop" class="site-navigation primary-menu primary-menu-bottom nav-menu-desktop primary-menu-desktop style-plain"><ul id="menu-home" class="primary-menu-ul menu nav-menu"><li id="menu-item--bottom-desktop-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-40"><a href="https://tecnikids.info/wp/"><span class="link-before">Inicio</span></a></li>
+<li id="menu-item--bottom-desktop-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-434"><a href="#"><span class="link-before">Nuestros Servicios<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="https://tecnikids.info/wp/robotica-pedagogica/"><span class="link-before">Robótica Pedagógica</span></a></li>
+	<li id="menu-item--bottom-desktop-1810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1810"><a href="https://tecnikids.info/wp/maker-lab/"><span class="link-before">Maker Lab</span></a></li>
+	<li id="menu-item--bottom-desktop-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="https://tecnikids.info/wp/informatica-educativa/"><span class="link-before">Informática Educativa</span></a></li>
+	<li id="menu-item--bottom-desktop-1768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1768"><a href="https://www.grupoeduit.com/"><span class="link-before">Certificaciones Microsoft</span></a></li>
+	<li id="menu-item--bottom-desktop-1769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1769"><a href="https://grupoeducare.com/fdigital22/pef/"><span class="link-before">Emprendimiento y Finanza</span></a></li>
+	<li id="menu-item--bottom-desktop-463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-463"><a href="https://tecnikids.info/wp/programa-de-valores/"><span class="link-before">Programa de Valores</span></a></li>
+</ul>
+</li>
+<li id="menu-item--bottom-desktop-502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-502"><a href="#"><span class="link-before">Acceso a Plataformas<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-2043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2043"><a href="https://tecnikids.info/wp/2044-2/"><span class="link-before">Preguntas frecuentes</span></a></li>
+	<li id="menu-item--bottom-desktop-504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-504"><a href="https://tecnikids.com/Tkplataforma/login/index.php"><span class="link-before">Plataforma 2026</span></a></li>
+	<li id="menu-item--bottom-desktop-2124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2124"><a href="https://crmo.edutec502.com/microcapsulas"><span class="link-before">Microcápsulas</span></a></li>
+	<li id="menu-item--bottom-desktop-858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href="https://tecnikids.info/wp/pais/"><span class="link-before">TKFormularios</span></a></li>
+</ul>
+</li>
+<li id="menu-item--bottom-desktop-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-524"><a href="https://tecnikids.info/wp/contactenos/"><span class="link-before">Contáctenos<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><a href="https://tecnikids.info/wp/sobre-nosotros/"><span class="link-before">Sobre Nosotros</span></a></li>
+	<li id="menu-item--bottom-desktop-1770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1770"><a href="https://tecnikids.info/wp/contactenos/"><span class="link-before">Contáctenos Guatemala</span></a></li>
+	<li id="menu-item--bottom-desktop-2136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2136"><a href="https://tecnikids.info/wp/contactenos-costa-rica/"><span class="link-before">Contáctenos Costa Rica</span></a></li>
+	<li id="menu-item--bottom-desktop-2212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2212"><a href="https://tecnikids.info/wp/contactenos-mexico/"><span class="link-before">Contáctenos México</span></a></li>
+	<li id="menu-item--bottom-desktop-2357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2357"><a href="https://api.whatsapp.com/send/?phone=50670253331&#038;text=%C2%A1Hola%21+Me+interesa+obtener+informaci%C3%B3n+de+las+asesor%C3%ADas+de+Tecnikids.&#038;type=phone_number&#038;app_absent=0"><span class="link-before">Contáctenos Panamá</span></a></li>
+</ul>
+</li>
+</ul></nav></div><div class="item--inner builder-item--search_icon" data-section="search_icon" data-item-id="search_icon" ><div class="header-search_icon-item item--search_icon">		<a class="search-icon" href="#">
+			<span class="ic-search">
+				<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+					<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+				</svg>
+			</span>
+			<span class="ic-close">
+				<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px" height="612px" viewBox="0 0 612 612" fill="currentColor" style="enable-background:new 0 0 612 612;" xml:space="preserve"><g><g id="cross"><g><polygon points="612,36.004 576.521,0.603 306,270.608 35.478,0.603 0,36.004 270.522,306.011 0,575.997 35.478,611.397 306,341.411 576.521,611.397 612,575.997 341.459,306.011 " /></g></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+			</span>
+			<span class="arrow-down"></span>
+		</a>
+		<div class="header-search-modal-wrapper">
+			<form role="search" class="header-search-modal header-search-form" action="https://tecnikids.info/wp/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Buscar ..." value="" name="s" title="Search for:" />
+				</label>
+				<button type="submit" class="search-submit">
+					<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+						<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+					</svg>
+				</button>
+			</form>
+		</div>
+		</div></div><div class="item--inner builder-item--button" data-section="header_button" data-item-id="button" ><a href="https://tecnikids.info/wp/productos/" class="item--button starterblog-btn starterblog-builder-btn is-icon-before"><i class="fa fa-shopping-cart"></i>  </a></div></div></div></div><div class="cb-row--mobile hide-on-desktop starterblog-grid starterblog-grid-middle"><div class="row-v2 row-v2-bottom no-center"><div class="col-v2 col-v2-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo" >		<div class="site-branding logo-top">
+						<a href="https://tecnikids.info/wp/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="https://tecnikids.info/wp/wp-content/uploads/2025/11/cropped-LOGO-08.png" alt="Tecnikids">
+							</a>
+					</div><!-- .site-branding -->
+		</div></div><div class="col-v2 col-v2-right"><div class="item--inner builder-item--nav-icon" data-section="header_menu_icon" data-item-id="nav-icon" >		<a class="menu-mobile-toggle item-button is-size-desktop-medium is-size-tablet-medium is-size-mobile-medium">
+			<span class="hamburger hamburger--squeeze">
+				<span class="hamburger-box">
+					<span class="hamburger-inner"></span>
+				</span>
+			</span>
+			<span class="nav-icon--label hide-on-desktop hide-on-tablet hide-on-mobile">Menú</span></a>
+		</div><div class="item--inner builder-item--button" data-section="header_button" data-item-id="button" ><a href="https://tecnikids.info/wp/productos/" class="item--button starterblog-btn starterblog-builder-btn is-icon-before"><i class="fa fa-shopping-cart"></i>  </a></div></div></div></div>									</div>
+								</div>
+							</div>
+							<div id="header-menu-sidebar" class="header-menu-sidebar menu-sidebar-panel light-mode"><div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg"><div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner"><div class="builder-item-sidebar mobile-item--search_box"><div class="item--inner" data-item-id="search_box" data-section="search_box"><div class="header-search_box-item item--search_box">		<form role="search" class="header-search-form " action="https://tecnikids.info/wp/">
+			<div class="search-form-fields">
+				<span class="screen-reader-text">Search for:</span>
+				
+				<input type="search" class="search-field" placeholder="Buscar ..." value="" name="s" title="Search for:" />
+
+							</div>
+			<button type="submit" class="search-submit">
+				<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+					<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+				</svg>
+			</button>
+		</form>
+		</div></div></div><div class="builder-item-sidebar mobile-item--primary-menu mobile-item--menu "><div class="item--inner" data-item-id="primary-menu" data-section="header_menu_primary"><nav  id="site-navigation-sidebar-mobile" class="site-navigation primary-menu primary-menu-sidebar nav-menu-mobile primary-menu-mobile style-plain"><ul id="menu-home" class="primary-menu-ul menu nav-menu"><li id="menu-item--sidebar-mobile-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-40"><a href="https://tecnikids.info/wp/"><span class="link-before">Inicio</span></a></li>
+<li id="menu-item--sidebar-mobile-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-434"><a href="#"><span class="link-before">Nuestros Servicios<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="https://tecnikids.info/wp/robotica-pedagogica/"><span class="link-before">Robótica Pedagógica</span></a></li>
+	<li id="menu-item--sidebar-mobile-1810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1810"><a href="https://tecnikids.info/wp/maker-lab/"><span class="link-before">Maker Lab</span></a></li>
+	<li id="menu-item--sidebar-mobile-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="https://tecnikids.info/wp/informatica-educativa/"><span class="link-before">Informática Educativa</span></a></li>
+	<li id="menu-item--sidebar-mobile-1768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1768"><a href="https://www.grupoeduit.com/"><span class="link-before">Certificaciones Microsoft</span></a></li>
+	<li id="menu-item--sidebar-mobile-1769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1769"><a href="https://grupoeducare.com/fdigital22/pef/"><span class="link-before">Emprendimiento y Finanza</span></a></li>
+	<li id="menu-item--sidebar-mobile-463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-463"><a href="https://tecnikids.info/wp/programa-de-valores/"><span class="link-before">Programa de Valores</span></a></li>
+</ul>
+</li>
+<li id="menu-item--sidebar-mobile-502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-502"><a href="#"><span class="link-before">Acceso a Plataformas<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-2043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2043"><a href="https://tecnikids.info/wp/2044-2/"><span class="link-before">Preguntas frecuentes</span></a></li>
+	<li id="menu-item--sidebar-mobile-504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-504"><a href="https://tecnikids.com/Tkplataforma/login/index.php"><span class="link-before">Plataforma 2026</span></a></li>
+	<li id="menu-item--sidebar-mobile-2124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2124"><a href="https://crmo.edutec502.com/microcapsulas"><span class="link-before">Microcápsulas</span></a></li>
+	<li id="menu-item--sidebar-mobile-858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href="https://tecnikids.info/wp/pais/"><span class="link-before">TKFormularios</span></a></li>
+</ul>
+</li>
+<li id="menu-item--sidebar-mobile-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-524"><a href="https://tecnikids.info/wp/contactenos/"><span class="link-before">Contáctenos<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><a href="https://tecnikids.info/wp/sobre-nosotros/"><span class="link-before">Sobre Nosotros</span></a></li>
+	<li id="menu-item--sidebar-mobile-1770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1770"><a href="https://tecnikids.info/wp/contactenos/"><span class="link-before">Contáctenos Guatemala</span></a></li>
+	<li id="menu-item--sidebar-mobile-2136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2136"><a href="https://tecnikids.info/wp/contactenos-costa-rica/"><span class="link-before">Contáctenos Costa Rica</span></a></li>
+	<li id="menu-item--sidebar-mobile-2212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2212"><a href="https://tecnikids.info/wp/contactenos-mexico/"><span class="link-before">Contáctenos México</span></a></li>
+	<li id="menu-item--sidebar-mobile-2357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2357"><a href="https://api.whatsapp.com/send/?phone=50670253331&#038;text=%C2%A1Hola%21+Me+interesa+obtener+informaci%C3%B3n+de+las+asesor%C3%ADas+de+Tecnikids.&#038;type=phone_number&#038;app_absent=0"><span class="link-before">Contáctenos Panamá</span></a></li>
+</ul>
+</li>
+</ul></nav></div></div></div></div></div></div></header>	<div id="site-content" class="site-content">
+		<div class="starterblog-container">
+			<div class="starterblog-grid">
+				<main id="main" class="content-area starterblog-col-12">
+					
+<div class="content-inner">
+			<section class="error-404 not-found">
+							<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+						<div class="page-content widget-area">
+				<p>Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?</p>
+				<div class="widget">
+					
+		<form role="search" class="sidebar-search-form" action="https://tecnikids.info/wp/">
+            <label>
+                <span class="screen-reader-text">Search for:</span>
+                <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+            </label>
+            <button type="submit" class="search-submit" >
+                <svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+                    <path id="svg-search" fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+                </svg>
+            </button>
+        </form>				</div>
+			</div><!-- .page-content -->
+		</section><!-- .error-404 -->
+		</div><!-- #.content-inner -->
+              			</main><!-- #main -->
+					</div><!-- #.starterblog-grid -->
+	</div><!-- #.starterblog-container -->
+</div><!-- #content -->
+<footer class="site-footer" id="site-footer">							<div  class="footer-main footer--row layout-full-contained"  id="cb-row--footer-main"  data-row-id="main"  data-show-on="desktop">
+								<div class="footer--row-inner footer-main-inner dark-mode">
+									<div class="starterblog-container">
+										<div class="starterblog-grid  starterblog-grid-top"><div class="starterblog-col-3_md-3_sm-6_xs-12 builder-item builder-first--footer-1" data-push-left="_sm-0"><div class="item--inner builder-item--footer-1" data-section="sidebar-widgets-footer-1" data-item-id="footer-1" ><div class="widget-area"><section id="text-3" class="widget widget_text">			<div class="textwidget"><p><img loading="lazy" class="size-full wp-image-21 aligncenter" src="https://tecnikids.info/wp/wp-content/uploads/2020/11/cropped-logo-tecnikids-superior-2.png" alt="" width="228" height="63" /></p>
+<p>16 ave. 19-41 , Zona 10, Ciudad de Guatemala, CA</p>
+<ul class="list-inline mt-5">
+<li class="m-0 pl-10 pr-10"><i class="fa fa-phone text-theme-color-red mr-5"></i> <a class="text-theme-color-white" href="#">+(502) 2316 3198/2316 3199</a></li>
+<li class="m-0 pl-10 pr-10"><i class="fa fa-envelope-o text-theme-color-lemon mr-5"></i> <a class="text-theme-color-white" href="#">sac@tecnikidsgt.com</a></li>
+<li class="m-0 pl-10 pr-10"><i class="fa fa-globe text-theme-color-orange mr-5"></i> <a class="text-theme-color-white" href="#">www.tecnikids.com</a></li>
+</ul>
+</div>
+		</section></div></div></div><div class="starterblog-col-3_md-3_sm-6_xs-12 builder-item builder-first--footer-2" data-push-left="_sm-0"><div class="item--inner builder-item--footer-2" data-section="sidebar-widgets-footer-2" data-item-id="footer-2" ><div class="widget-area"><section id="text-5" class="widget widget_text"><h4 class="widget-title">Enlaces Útiles</h4>			<div class="textwidget"><ul class="list angle-double-right list-border">
+<li><a class="text-theme-color-white" href="sobre-nosotros">Sobre nosotros</a></li>
+<li><a class="text-theme-color-white" href="informatica-educativa">Clases de Informática</a></li>
+<li><a class="text-theme-color-white" href="robotica-pedagogica">Clases de Robótica</a></li>
+<li><a class="text-theme-color-white" href="programa-de-valores">Programa de Valores</a></li>
+<li><a class="text-theme-color-white" href="laboratorios">Laboratorios</a></li>
+</ul>
+</div>
+		</section></div></div></div><div class="starterblog-col-3_md-3_sm-6_xs-12 builder-item builder-first--footer-3" data-push-left="_sm-0"><div class="item--inner builder-item--footer-3" data-section="sidebar-widgets-footer-3" data-item-id="footer-3" ><div class="widget-area"><section id="text-6" class="widget widget_text"><h4 class="widget-title">Horario de Trabajo</h4>			<div class="textwidget"><ul class="list-border">
+<li class="clearfix">Lunes a Viernes :
+<div class="value pull-right">7:00 am &#8211; 4:00 pm</div>
+</li>
+<li class="clearfix">Sábado y Domingo :
+<div class="value pull-right">Cerrado</div>
+</li>
+</ul>
+</div>
+		</section></div></div></div><div class="starterblog-col-3_md-3_sm-6_xs-12 builder-item builder-first--footer-4" data-push-left="_sm-0"><div class="item--inner builder-item--footer-4" data-section="sidebar-widgets-footer-4" data-item-id="footer-4" ><div class="widget-area"><section id="text-7" class="widget widget_text"><h4 class="widget-title">Cobertura</h4>			<div class="textwidget"><ul class="list angle-double-right list-border">
+<li><a class="text-theme-color-white" href="tel:+50223163198">🇬🇹Guatemala</a></li>
+<li><a class="text-theme-color-white" href="tel:+50223163198">🇭🇳Honduras</a></li>
+<li><a class="text-theme-color-white" href="tel:+50223163198">🇸🇻El Salvador</a></li>
+<li><a class="text-theme-color-white" href="https://api.whatsapp.com/send/?phone=50670973924&amp;text=%C2%A1Hola%21+Me+interesa+obtener+informaci%C3%B3n+de+las+asesor%C3%ADas+de+Tecnikids.&amp;type=phone_number&amp;app_absent=0">🇨🇷Costa Rica<br />
+</a></li>
+<li><a class="text-theme-color-white" href="https://api.whatsapp.com/send/?phone=5214421860924&amp;text=%C2%A1Hola%21+Me+interesa+obtener+informaci%C3%B3n+de+las+asesor%C3%ADas+de+Tecnikids.&amp;type=phone_number&amp;app_absent=0">🇲🇽México<br />
+</a></li>
+<li><a class="text-theme-color-white" href="https://api.whatsapp.com/send/?phone=50670253331&amp;text=%C2%A1Hola%21+Me+interesa+obtener+informaci%C3%B3n+de+las+asesor%C3%ADas+de+Tecnikids.&amp;type=phone_number&amp;app_absent=0">🇵🇦Panamá<br />
+</a></li>
+</ul>
+</div>
+		</section></div></div></div></div>									</div>
+								</div>
+							</div>
+														<div  class="footer-bottom footer--row layout-full-contained"  id="cb-row--footer-bottom"  data-row-id="bottom"  data-show-on="desktop">
+								<div class="footer--row-inner footer-bottom-inner dark-mode">
+									<div class="starterblog-container">
+										<div class="starterblog-grid  starterblog-grid-top"><div class="starterblog-col-6_md-6_sm-6_xs-12 builder-item builder-first--footer_copyright" data-push-left="_sm-0"><div class="item--inner builder-item--footer_copyright" data-section="footer_copyright" data-item-id="footer_copyright" ><div class="builder-footer-copyright-item footer-copyright"><p>Copyright &copy; 2026 Tecnikids &#8211; DSM Carlos Maldonado</p>
+</div></div></div><div class="starterblog-col-4_md-4_sm-6_xs-12 builder-item builder-first--footer-social-icons" data-push-left="off-2 _sm-0"><div class="item--inner builder-item--footer-social-icons" data-section="footer_social_icons" data-item-id="footer-social-icons" ><ul class="footer-social-icons starterblog-builder-social-icons color-custom"><li><a class="social-icon-facebook shape-circle" rel="nofollow" target="_blank" href="https://www.facebook.com/tecnikidsgt"><i class="icon fa fa-facebook" title="Facebook"></i></a></li><li><a class="social-icon-youtube-play shape-circle" rel="nofollow" target="_blank" href="https://www.youtube.com/user/Tecnikids"><i class="icon fa fa-youtube-play" title="Youtube"></i></a></li><li><a class="social-icon-instagram shape-circle" rel="nofollow" target="_blank" href="https://www.instagram.com/_tecnikids"><i class="icon fa fa-instagram" title="Instagram"></i></a></li><li><a class="social-icon-volume-control-phone shape-circle" rel="nofollow" target="_blank" href="tel:%20%2050223163198"><i class="icon fa fa-volume-control-phone" title="Pinterest"></i></a></li></ul></div></div></div>									</div>
+								</div>
+							</div>
+							</footer></div><!-- #page -->
+
+<div id="qlwapp" class="qlwapp-free qlwapp-button qlwapp-bottom-right qlwapp-all qlwapp-rounded">
+	<div class="qlwapp-container">
+		
+		<a class="qlwapp-toggle" data-action="open" data-phone="50245507283" data-message="Hola te escribo desde la página Tecnikids" href="javascript:void(0);" target="_blank">
+							<i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
+						<i class="qlwapp-close" data-action="close">&times;</i>
+							<span class="qlwapp-text">¿Cómo puedo ayudarte?</span>
+					</a>
+	</div>
+</div><script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/tecnikids.info\/wp\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type='text/javascript' id='cf7msm-js-extra'>
+/* <![CDATA[ */
+var cf7msm_posted_data = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/contact-form-7-multi-step-module/resources/cf7msm.min.js?ver=4.0.9' id='cf7msm-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/contact-form-7-style/js/frontend-min.js?ver=3.1.9' id='cf7-style-frontend-script-js'></script>
+<script type='text/javascript' id='pt-cv-content-views-script-js-extra'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"9fcca31b13","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/tecnikids.info\/wp\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Ir a la primera p\u00e1gina","goto_prev":"Ir a la p\u00e1gina anterior","goto_next":"Ir a la p\u00e1gina siguiente","goto_last":"Ir a la \u00faltima p\u00e1gina","current_page":"La p\u00e1gina actual es","goto_page":"Ir a la p\u00e1gina"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=2.3.4' id='pt-cv-content-views-script-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/counter-number-showcase/assets/js/bootstrap.js?ver=5.5.18' id='wpsm_count_bootstrap-js-front-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/counter-number-showcase/assets/js/counter_nscript.js?ver=5.5.18' id='wpsm-new_count_script3-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/counter-number-showcase/assets/js/waypoints.min.js?ver=5.5.18' id='wpsm-new_count_waypoints-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/counter-number-showcase/assets/js/jquery.counterup.min.js?ver=5.5.18' id='wpsm-new_count_script2-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/easy-fancybox/js/jquery.fancybox.min.js?ver=1.3.24' id='jquery-fancybox-js'></script>
+<script type='text/javascript' id='jquery-fancybox-js-after'>
+var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+/* IMG */
+var fb_IMG_select='a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox),a[href*=".webp"]:not(.nolightbox,li.nolightbox>a),area[href*=".webp"]:not(.nolightbox)';
+jQuery(fb_IMG_select).addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery,.wp-block-jetpack-tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.4.1' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.13' id='jquery-mousewheel-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/wp-whatsapp-chat/build/frontend/js/index.js?ver=3c67d5761074da14ec44' id='qlwapp-js'></script>
+<script type='text/javascript' id='wpcf7cf-scripts-js-extra'>
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/tecnikids.info\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=1.9.14' id='wpcf7cf-scripts-js'></script>
+<script type='text/javascript' id='starterblog-themejs-js-extra'>
+/* <![CDATA[ */
+var StarterBlog_JS = {"is_rtl":"","css_media_queries":{"all":"%s","desktop":"%s","tablet":"@media screen and (max-width: 1024px) { %s }","mobile":"@media screen and (max-width: 568px) { %s }"},"sidebar_menu_no_duplicator":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/themes/starter-blog/assets/js/theme.min.js?ver=1.6.1' id='starterblog-themejs-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-includes/js/wp-embed.min.js?ver=5.5.18' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/weather-effect/assets/js/christmas-snow/christmas-snow.js?ver=5.5.18' id='awplife-we-snow-christmas-snow-js-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/weather-effect/assets/js/snow-falling/snow-falling.js?ver=5.5.18' id='awplife-we-snow-snow-falling-js-js'></script>
+<script type='text/javascript' src='https://tecnikids.info/wp/wp-content/plugins/weather-effect/assets/js/snowfall-master/snowfall-master.min.js?ver=5.5.18' id='awplife-we-snow-snowfall-master-js-js'></script>
+
+</body>
+</html>
