@@ -50,7 +50,7 @@
 </nav>
 
 <div class="page-hero">
-  <div class="ph-grid"></div><div class="page-hero-content">
+  <div class="ph-orb-1"></div><div class="ph-orb-2"></div><div class="ph-grid"></div><div class="page-hero-content">
     <div class="section-tag">Programa educativo</div>
     <h1>Robótica Pedagógica</h1>
     <p>Un programa integral que desarrolla pensamiento lógico, matemáticas y trabajo en equipo a través de la construcción y programación de robots.</p>
@@ -114,7 +114,7 @@
 </footer>
 <a href="#" target="_blank" class="whatsapp-float">💬</a>
 <script>
-  window.addEventListener('scroll',()=>{document.getElementById('navbar').classList.toggle('scrolled',window.scrollY>60);});
+  window.addEventListener('scroll',()=>{document.getElementById('navbar').classList.toggle('scrolled', window.scrollY > 60);});
   document.getElementById('hamburger').addEventListener('click',()=>{const l=document.querySelector('.nav-links');const open=l.dataset.open==='1';l.dataset.open=open?'0':'1';Object.assign(l.style,open?{display:'none'}:{display:'flex',flexDirection:'column',position:'fixed',top:'58px',left:'0',right:'0',background:'rgba(15,14,42,0.99)',padding:'24px 32px',gap:'20px',zIndex:'99'});});
 </script>
 </body></html>

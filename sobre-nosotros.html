@@ -48,7 +48,7 @@
 </nav>
 
 <div class="page-hero">
-  <div class="ph-grid"></div><div class="page-hero-content">
+  <div class="ph-orb-1"></div><div class="ph-orb-2"></div><div class="ph-grid"></div><div class="page-hero-content">
     <div class="section-tag">Nuestra historia</div>
     <h1>Sobre Tecnikids</h1>
     <p>Desde 1995 integrando educación y tecnología para transformar el aprendizaje en Latinoamérica.</p>
@@ -125,7 +125,7 @@
 <script>
   const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(!x.isIntersecting)return;const el=x.target,target=+el.dataset.target;const step=target/(1800/16);let cur=0;const t=setInterval(()=>{cur+=step;if(cur>=target){cur=target;clearInterval(t);}el.textContent=target>=1000?Math.floor(cur).toLocaleString('es-MX'):Math.floor(cur);},16);obs.unobserve(el);});},{threshold:0.5});
   document.querySelectorAll('[data-target]').forEach(c=>obs.observe(c));
-  window.addEventListener('scroll',()=>{document.getElementById('navbar').classList.toggle('scrolled',window.scrollY>60);});
+  window.addEventListener('scroll',()=>{document.getElementById('navbar').classList.toggle('scrolled', window.scrollY > 60);});
   document.getElementById('hamburger').addEventListener('click',()=>{const l=document.querySelector('.nav-links');const open=l.dataset.open==='1';l.dataset.open=open?'0':'1';Object.assign(l.style,open?{display:'none'}:{display:'flex',flexDirection:'column',position:'fixed',top:'58px',left:'0',right:'0',background:'rgba(15,14,42,0.99)',padding:'24px 32px',gap:'20px',zIndex:'99'});});
 </script>
 </body></html>
