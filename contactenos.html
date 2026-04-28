@@ -54,7 +54,7 @@
 </nav>
 
 <div class="page-hero">
-  <div class="page-hero-content">
+  <div class="ph-grid"></div><div class="page-hero-content">
     <div class="section-tag">Estamos aquí para ti</div>
     <h1>Contáctanos</h1>
     <p>Cuéntanos sobre tu institución y diseñamos el programa de tecnología educativa ideal para tus estudiantes.</p>
@@ -139,7 +139,7 @@
 <a href="#" target="_blank" class="whatsapp-float">💬</a>
 <script>
   function handleSubmit(e){e.preventDefault();document.getElementById('alert-ok').style.display='block';e.target.reset();setTimeout(()=>{document.getElementById('alert-ok').style.display='none';},4000);}
-  window.addEventListener('scroll',()=>{document.getElementById('navbar').style.background=window.scrollY>60?'rgba(15,14,42,0.98)':'rgba(15,14,42,0.95)';});
+  window.addEventListener('scroll',()=>{document.getElementById('navbar').classList.toggle('scrolled',window.scrollY>60);});
   document.getElementById('hamburger').addEventListener('click',()=>{const l=document.querySelector('.nav-links');const open=l.dataset.open==='1';l.dataset.open=open?'0':'1';Object.assign(l.style,open?{display:'none'}:{display:'flex',flexDirection:'column',position:'fixed',top:'58px',left:'0',right:'0',background:'rgba(15,14,42,0.99)',padding:'24px 32px',gap:'20px',zIndex:'99'});});
 </script>
 </body></html>
