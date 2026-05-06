@@ -100,29 +100,25 @@
       </div>
     </div>
 
-    <div class="form-card">
-      <div class="form-title">Solicita información</div>
-      <div class="alert-success" id="alert-ok">✓ ¡Mensaje enviado! Te contactaremos pronto.</div>
-      <a href="#" target="_blank" class="wa-btn">💬 Escríbenos por WhatsApp</a>
-      <div class="or-divider">o completa el formulario</div>
-      <form id="contactForm" onsubmit="handleSubmit(event)">
-        <div class="form-group"><label>Nombre completo *</label><input type="text" placeholder="Tu nombre" required></div>
-        <div class="form-group"><label>Institución educativa *</label><input type="text" placeholder="Nombre del colegio" required></div>
-        <div class="form-group"><label>Correo electrónico *</label><input type="email" placeholder="correo@colegio.edu.mx" required></div>
-        <div class="form-group"><label>Teléfono</label><input type="tel" placeholder="+52 ..."></div>
-        <div class="form-group">
-          <label>Programa de interés</label>
-          <select>
-            <option value="">Selecciona un programa</option>
-            <option>Robótica Pedagógica</option>
-            <option>Maker Lab</option>
-            <option>Informática Educativa</option>
-            <option>Todos los programas</option>
-          </select>
-        </div>
-        <div class="form-group"><label>Mensaje</label><textarea placeholder="Cuéntanos sobre tu institución y lo que necesitas..."></textarea></div>
-        <button type="submit" class="btn-submit">Enviar solicitud →</button>
-      </form>
+    <div class="form-card" style="padding:0;overflow:hidden;border-top:none;background:transparent;box-shadow:none;">
+      <iframe
+        src="https://api.rgeducationgroup.org/widget/form/guY2w8mp7rUS1nuKeQN4"
+        style="width:100%;height:751px;border:none;border-radius:16px;display:block;"
+        id="inline-guY2w8mp7rUS1nuKeQN4"
+        data-layout="{'id':'INLINE'}"
+        data-trigger-type="alwaysShow"
+        data-trigger-value=""
+        data-activation-type="alwaysActivated"
+        data-activation-value=""
+        data-deactivation-type="neverDeactivate"
+        data-deactivation-value=""
+        data-form-name="Form Pag Web Tecnikids"
+        data-height="751"
+        data-layout-iframe-id="inline-guY2w8mp7rUS1nuKeQN4"
+        data-form-id="guY2w8mp7rUS1nuKeQN4"
+        title="Form Pag Web Tecnikids">
+      </iframe>
+      <script src="https://api.rgeducationgroup.org/js/form_embed.js"></script>
     </div>
   </div>
 </section>
@@ -138,7 +134,6 @@
 </footer>
 <a href="#" target="_blank" class="whatsapp-float">💬</a>
 <script>
-  function handleSubmit(e){e.preventDefault();document.getElementById('alert-ok').style.display='block';e.target.reset();setTimeout(()=>{document.getElementById('alert-ok').style.display='none';},4000);}
   window.addEventListener('scroll',()=>{document.getElementById('navbar').classList.toggle('scrolled', window.scrollY > 60);});
   document.getElementById('hamburger').addEventListener('click',()=>{const l=document.querySelector('.nav-links');const open=l.dataset.open==='1';l.dataset.open=open?'0':'1';Object.assign(l.style,open?{display:'none'}:{display:'flex',flexDirection:'column',position:'fixed',top:'58px',left:'0',right:'0',background:'rgba(15,14,42,0.99)',padding:'24px 32px',gap:'20px',zIndex:'99'});});
 </script>
